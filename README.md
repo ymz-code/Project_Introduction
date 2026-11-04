@@ -1,1 +1,1 @@
-# PDF内包含三个已成功落地使用的Vibe Coding项目的详细介绍
+# PDF内包含三个已成功落地使用的Vibe Coding项目的详细介绍，可下载zip查看
